@@ -1,4 +1,4 @@
-## Hi there I'm Luciano Rodrigues, Software Engineer and musician!
+## Hi there! I'm Luciano Rodrigues, Software Engineer and musician!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushinectar&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushinectar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
