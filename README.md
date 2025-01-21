@@ -7,7 +7,6 @@
   <img align="center" alt="sushi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="sushi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sushi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="sushi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/863609736103460885/1067532410281000980/WhatsApp_Image_2023-01-06_at_22.34.54.jpeg">
 </div>
   
   ##
