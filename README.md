@@ -15,9 +15,8 @@ ___
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNIP  
 - 💻 Full Stack com foco em Next.js, Tailwind e JS
-- 📱 Desenvolvendo apps com React Native + Expo  
-- 🧠 Uso Obsidian como “segundo cérebro”  
-- 🎵 Produção musical nas horas vagas
+- 📱 Apps com React Native + Expo  
+- 🧠 Obsidian como “segundo cérebro”  
 - 🧪 Entusiasta em cybersegurança e Linux
 
 ---
@@ -36,30 +35,6 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36"/>
 </p>
-
----
-
-## 📦 Tecnologias que uso
-
-- React / Next.js  
-- React Native + Expo  
-- Tailwind CSS / shadcn  
-- Firebase  
-- Python (scraping + automações)  
-- Git + GitHub  
-- Figma → código  
-- Linux  
-
----
-
-## 🧩 Projetos
-
-- 📱 Clone do Spotify (React Native – front-end first)  
-- 🛒 E-commerce single product + Firebase  
-- 🤖 Bot local em Python para monitorar preços de joias  
-- 🌤️ App de clima com Next.js  
-- 🎙️ Agência de comunicação (podcast, música, sites, apps)  
-- 🚀 Planejando startup focada em jovens (anti redes sociais viciantes)
 
 ---
 
