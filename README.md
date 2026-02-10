@@ -67,9 +67,7 @@ ___
 
 <p align="center">
 
-[![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF](mailto:sen4.contato@pm.me)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-ffdd00?style=for-the-badge&logo=GitHub&logoColor=000000&color:FFF)](https://github.com/sushinectar)
+[![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF)](mailto:sen4.contato@pm.me)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/44sen4)
 </p>
