@@ -7,7 +7,7 @@
  Atualmente trabalho com landing pages, aplicativos e pentest. Estudo Next.js e React Native, desenvolvendo projetos próprios — desde apps até bots em Python.
 </p>
 
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira01-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@sushinectar-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 ___
 
