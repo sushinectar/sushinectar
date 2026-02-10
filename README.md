@@ -9,7 +9,6 @@
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@sushinectar-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
-___
 
 ## 🚀 Sobre mim
 
@@ -19,7 +18,6 @@ ___
 - 🧠 Obsidian como “segundo cérebro”  
 - 🧪 Entusiasta em cybersegurança e Linux
 
----
 
 ## 🛠️ Stack principal
 
