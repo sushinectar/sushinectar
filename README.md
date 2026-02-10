@@ -7,7 +7,9 @@
  Atualmente trabalho com landing pages, aplicativos e pentest. Estudo Next.js e React Native, desenvolvendo projetos próprios — desde apps até bots em Python.
 </p>
 
----
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@guilhermeteixeira01-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+
+___
 
 ## 🚀 Sobre mim
 
@@ -64,29 +66,21 @@
 ## 📲 Contato
 
 <p align="center">
+
+[![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF)](mailto:sen4.contato@pm.me)
+
 <a href="https://github.com/sushinectar">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
-</a>
+[![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/44sen4)
 </p>
-
----
-
-## 🎧 Spotify
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31alvuw6hdcl4cf65mroprno6ajy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ffd700)](https://open.spotify.com/user/31alvuw6hdcl4cf65mroprno6ajy)
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushinectar/sushinectar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushinectar/sushinectar/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/sushinectar/sushinectar/output/pacman-contribution-graph.svg">
 </picture>
 
