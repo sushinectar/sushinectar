@@ -70,7 +70,7 @@ ___
 [![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF)](mailto:sen4.contato@pm.me)
 
 <a href="https://github.com/sushinectar">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF"/>
 </a>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/44sen4)
