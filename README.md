@@ -67,11 +67,9 @@ ___
 
 <p align="center">
 
-[![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF)](mailto:sen4.contato@pm.me)
+[![E-mail](https://img.shields.io/badge/-Email-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF](mailto:sen4.contato@pm.me)
 
-<a href="https://github.com/sushinectar">
-<img src="https://img.shields.io/badge/-GitHub-ffdd00?style=for-the-badge&logo=Gmail&logoColor=000000&color:FFF"/>
-</a>
+[![GitHub](https://img.shields.io/badge/-GitHub-ffdd00?style=for-the-badge&logo=GitHub&logoColor=000000&color:FFF)](https://github.com/sushinectar)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/44sen4)
 </p>
