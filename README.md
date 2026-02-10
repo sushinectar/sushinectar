@@ -34,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36"/>
 </p>
 
----
-
 ## 📲 Contato
 
 <p align="center">
@@ -45,12 +43,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-ffdd00?style=for-the-badge&logo=instagram&logoColor=000000&color:FFF)](https://www.instagram.com/44sen4)
 </p>
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushinectar/sushinectar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushinectar/sushinectar/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/sushinectar/sushinectar/output/pacman-contribution-graph.svg">
 </picture>
-
----
